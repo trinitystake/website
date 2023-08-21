@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrinity_validator=self.webpackChunktrinity_validator||[]).push([[9894],{7522:t=>{t.exports=JSON.parse('{"permalink":"/trinity-validator-website/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
