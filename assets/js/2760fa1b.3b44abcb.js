@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktrinity_validator=self.webpackChunktrinity_validator||[]).push([[1407],{2652:t=>{t.exports=JSON.parse('{"permalink":"/trinity-validator-website/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
