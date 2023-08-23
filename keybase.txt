@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/trinityvalidator
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://trinityvalidator.com
+  * I am trinityvalidator (https://keybase.io/trinityvalidator) on keybase.
+  * I have a public key with fingerprint 5DC2 4FB9 2E55 D784 4D13  070D 754D F5DA 303D 658B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012053c4592e4005d66a7a8c86037101c30c39c4109c98e9022657404509d334536b0a",
+      "fingerprint": "5dc24fb92e55d7844d13070d754df5da303d658b",
+      "host": "keybase.io",
+      "key_id": "754df5da303d658b",
+      "kid": "0101285c376a610d746619559aee480d80e9429369aca37eddaec1e4f2187d91045d0a",
+      "uid": "f582e94c1c9572c629d2ced89799b019",
+      "username": "trinityvalidator"
+    },
+    "service": {
+      "hostname": "trinityvalidator.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1688895209,
+  "expire_in": 157680000,
+  "prev": "8847854f2ae7531f243a15223517c3f59ba0a13b7d123ef740598050c4285ed6",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNyAnicdZJ7UBVVHMcvERIggk5jKk7SJqQMytnH2QfDQ2o0mbJJVGYs8La759zL
+Bty93Lv3CiE4moZkJqYy5BgoY+BQNkLaQ0C6PoEmcMRBBCfERky4DNCDITXoXCb/
+q/3nzO5+v5/z/f7OuRTqbwr2c637sxck4r1+P3pOukyorvhBIaXoqICKL6Sy8cyC
+cxB2GuZsDVHxFKAZAFmVgxKDOQAg4nlZkEVV5AEr0IBWWaCyksrRQFIlEUuAYXgo
+cICDQEIsy0GWV4BMxVIWzWbFDrtDsxkEC5HKcBaFQCFEgshxiGaBAJAAOWSBSGYB
+i3goKsSYpTt9DhJOkZ14paaTb+TFPBPvP/RPcpPkIlRZgZd5moA5nqclCCUZY04E
+SARY4hiJ5SVZlVkBIyRjlcachaFFAUk0KYBmcrtmcBYoMsSg0qoEBUblGQkxKkai
+JEiSAmjJJ3Rih03OxURtkJaaUeCWczQkG7qDKoqlyF+3pmLfgH2N/ke5UtVzCcvu
+0A1d1XOIIssw7M54H8EosPssW7Fi/hdmVjQbInMlDjd2ODXdRsXTRKkamo9O86Io
+SpABUiyF8+2aA5s1nwIKvAjI49sHuwlSFDlBhKS7jAXI0haGY2UaMgwLaUFlLVBS
+ZCDTrCIgmmGxhRwvlEQAgcqREWPEU756eTadsBmSU7YSplOz2mTD5cBU0QVPxtMm
+v2DTrICnfBfOFBwU/uQaxjWFTWfsnax5oyi5uMjVU/tc86EKyw/tR82VCS+dXzhS
+5dUO1AR9k/eel388nNi6ILGu01vQ8jAl78NH75y6OH7x1Bm76dP+v86JZT8Lr3Vf
+nbi+5vrh3S8PuJoXp95QxvMpZ0yXdxWswdahwvk923ctKd3nqLHeX9Pl7541OWes
+qCfGmjtS1lU5u9ZkgMLh0lu9YaXl2eP82ayR49ON0wuD66JMa/tPzB944EqPKDvc
+6z0dWOHojBzUk3tXHFne3tW37sSr5yYaOwIa1qcGDG6r33Y6ND23ca679VaTdLDq
++fKKy5tuM4WD5m0bViWsTirYUxU9oHQv6l7kGUiaKrakcX3FkSk5zLE8NnDjs98v
++SMiv/7uVATjX6e8IjBbPI/G3nozra367rvMR9WmSPar35wbjpR0uqKm7n3HnDx/
+U+UtUTvvfJzIhaSsTf8y6YAR0FGSsPmLyeTI6qX28Jjf99tbO2rNyZdRKfNB5OvN
+9xbk2Mt/Shh7gQuq2B44Gf/JpaGmqrlbj5WENGRullKWuo8/5Gszw1Z85sE7W/Qt
+A9F9LXuSAs5408I3bVw8dLVp9M4zX69/v+1gQ6a6bHS0/uyNm3MCd93v7Hn8S1Xz
+hb+TjvbbPY2fvx00ZLn24urR8kMlXfuvaNWpGbOF6CBM76gM2ffrsvDQgbbRYf5K
+XO63cbfnLb82IXTvnrej/R+kqM0F
+=QHF9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/trinityvalidator
+
+==================================================================
