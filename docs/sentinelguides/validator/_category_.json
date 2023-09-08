@@ -1,0 +1,8 @@
+{
+  "label": "Validator Setup",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Tailored for those interested in contributing to the Sentinel Network by participating in the validation of transactions and blocks. Successful execution necessitates the presence of a Full Node."
+  }
+}
