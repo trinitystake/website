@@ -43,7 +43,7 @@ git checkout $(git describe --tags ${commit})
 ```bash
 cd ~/dvpn-node && \
 git fetch && \
-git checkout v0.6.5
+git checkout v0.7.0
 ```
 
 ### Build the image
