@@ -23,7 +23,7 @@ endpoints:
     kind: ip
 services:
   app:
-    image:  declab/sentinel_dvpn_ssh:0.7.1
+    image:  declab/sentinel_dvpn_ssh:0.7.2
     
     env:
       - "SSH_PASS=" # Your SSH password
