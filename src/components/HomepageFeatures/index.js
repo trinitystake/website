@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Stake With Us',
-    Svg: require('@site/static/img/cosmos.svg').default,
+    Svg: require('@site/static/img/stake.svg').default,
     description: (
       <>
         We are one of the most active validators in the Sentinel ecosystem and also provide daily support to new community members. We constantly engage with the Sentinel Foundation and leading whitelabels like MathNodes to make the internet safer and free.

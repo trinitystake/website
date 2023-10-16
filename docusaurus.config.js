@@ -78,13 +78,46 @@ const config = {
             href: '/docs/sentinelguides/intro',
             sidebarid: 'sentinelSidebar',
             position: 'left',
-            label: 'Sentinel dVPN Guides',
+            label: 'Guides',
           },
-          {to: 'validator', label: 'Validator Details', position: 'left'},
+          {to: 'validator', label: 'Validator Stats', position: 'left'},
           {
-            href: 'https://github.com/trinityprivacy',
-            label: 'GitHub',
+            label: 'Connect 👥',
+            type: 'dropdown',
+            position: 'left',
+            items: [
+              {
+                href: 'https://t.me/trinityvalidatorgroup',
+                label: 'Telegram',
+              },
+              {
+                href: 'https://github.com/trinityprivacy',
+                label: 'GitHub',
+              },
+              {
+                href: 'https://keybase.io/trinityvalidator',
+                label: 'Keybase',
+              },
+            ],
+          },
+          {
+            label: 'Sentinel dVPN',
+            type: 'dropdown',
             position: 'right',
+            items: [
+              {
+                href: 'https://sentinel.co',
+                label: 'Official Website',
+              },
+              {
+                href: 'https://docs.sentinel.co',
+                label: 'Docs',
+              },
+              {
+                href: 'https://map.sentinel.co',
+                label: 'Node Explorer',
+              },
+            ],
           },
         ],
       },
@@ -104,11 +137,11 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Sentinel dVPN Guides',
+                label: 'Guides',
                 to: '/docs/sentinelguides/intro',
               },
               {
-                label: 'Validator Details',
+                label: 'Validator Stats',
                 to: 'validator',
               },
               /*
@@ -137,11 +170,15 @@ const config = {
             ],
           },
           {
-            title: 'Sentinel Links',
+            title: 'Sentinel dVPN',
             items: [
               {
                 label: 'Official Website',
                 href: 'https://sentinel.co',
+              },
+              {
+                label: 'Documentation',
+                href: 'https://docs.sentinel.co',
               },
               {
                 label: 'Node Map',
