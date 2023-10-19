@@ -8,7 +8,7 @@ sidebar_position: 2
 
 - Official website: [https://sentinel.co/](https://sentinel.co/)
 - Documentation: [https://docs.sentinel.co/](https://docs.sentinel.co/)
-- Whitepaper: [pdf](https://raw.githubusercontent.com/sentinel-official/docs/master/whitepaper/whitepaper.pdf)
+- Whitepaper: [https://docs.sentinel.co/getting-started/whitepaper](https://docs.sentinel.co/getting-started/whitepaper)
 - Tokenomics: [https://kb.sentinel.co/general/tokenomics](https://kb.sentinel.co/general/tokenomics)
 - Node Explorer: [https://map.sentinel.co/](https://map.sentinel.co/)
 - Statistics (under manteinance): [https://stats.sentinel.co/stats](https://stats.sentinel.co/stats)
