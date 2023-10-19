@@ -7,11 +7,10 @@ sidebar_position: 2
 # Sentinel dVPN Resources
 
 - Official website: [https://sentinel.co/](https://sentinel.co/)
-- Knowledge Base: [https://kb.sentinel.co/](https://kb.sentinel.co/)
 - Documentation: [https://docs.sentinel.co/](https://docs.sentinel.co/)
 - Whitepaper: [pdf](https://raw.githubusercontent.com/sentinel-official/docs/master/whitepaper/whitepaper.pdf)
 - Tokenomics: [https://kb.sentinel.co/general/tokenomics](https://kb.sentinel.co/general/tokenomics)
-- Map Explorer: [https://map.sentinel.co/](https://map.sentinel.co/)
+- Node Explorer: [https://map.sentinel.co/](https://map.sentinel.co/)
 - Statistics (under manteinance): [https://stats.sentinel.co/stats](https://stats.sentinel.co/stats)
 - Commonwealth (governance and proposals discussions): [https://commonwealth.im/sentinel](https://commonwealth.im/sentinel)
 - GitHub: [https://github.com/sentinel-official](https://github.com/sentinel-official)
