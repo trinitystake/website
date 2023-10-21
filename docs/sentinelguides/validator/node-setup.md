@@ -27,7 +27,7 @@ Launch this command and make sure the hub version is the last (you can check [he
 ```bash
 git clone https://github.com/sentinel-official/hub.git "${HOME}/sentinelhub"
 cd "${HOME}/sentinelhub"
-git checkout v0.11.2
+git checkout v0.11.3
 make install
 sudo ln -s "${GOBIN}/sentinelhub" /usr/local/bin/sentinelhub
 ```
