@@ -1,6 +1,6 @@
 ---
 title: Overview & Requirements
-description: This guide is intended for anyone who wishes to contribute to the Sentinel Network and share their bandwidth by setting up a dVPN node
+description: dVPN node manual setup
 sidebar_position: 1
 ---
 

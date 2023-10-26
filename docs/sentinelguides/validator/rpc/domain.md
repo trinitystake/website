@@ -1,5 +1,6 @@
 ---
 title: Register a Domain Name
+description: To get started, register a domain name.
 sidebar_position: 2
 ---
 
