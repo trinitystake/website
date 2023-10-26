@@ -1,5 +1,6 @@
 ---
-title: Winning DVPN Tokens 
+title: Winning DVPN Tokens
+description: Play games and lotteries and win DVPN 
 sidebar_position: 12
 ---
 

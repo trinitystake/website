@@ -1,5 +1,6 @@
 ---
 title: Sentinel Integration in other Projects
+description: List of projects that includes sentinel as plugin or module
 sidebar_position: 7
 ---
 
