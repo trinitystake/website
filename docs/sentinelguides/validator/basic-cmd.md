@@ -1,6 +1,6 @@
 ---
 title: Basic Commands
-description: some useful commands and explain their outputs
+description: List of useful commands and their explanations
 sidebar_position: 7
 ---
 

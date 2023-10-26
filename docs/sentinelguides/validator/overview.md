@@ -1,6 +1,6 @@
 ---
 title: Overview
-description: This guide has been created based on my personal experience of setting up a validator and it is still a work in progress
+description: What is a validator, and why should you install it?
 sidebar_position: 1
 ---
 

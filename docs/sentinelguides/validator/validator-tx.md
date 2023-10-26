@@ -1,5 +1,6 @@
 ---
 title: Become a Validator
+description: How to create the tx to become validator
 sidebar_position: 6
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Install and Configure Full Node
-description: These steps will guide you on how to install and configure the Sentinel hub
+description: The required steps to install and configure Sentinel Hub
 sidebar_position: 4
 ---
 

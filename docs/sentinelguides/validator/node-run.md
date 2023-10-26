@@ -1,5 +1,6 @@
 ---
 title: Run the Full Node
+description: How to synchronize and run the hub
 sidebar_position: 5
 ---
 
