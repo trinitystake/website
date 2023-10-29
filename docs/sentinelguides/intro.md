@@ -8,10 +8,10 @@ Sentinel dVPN guides are a commitment shared by Trinity Validator, aimed at maki
 
 Currently, we have crafted three comprehensive guides:
 
-- [**Sentinel dVPN Resources:**](/docs/category/resources) This guide offers a thorough overview of the Sentinel dVPN Network. Whether you're a newcomer seeking an introduction to Sentinel or a proficient user aiming to enhance your utilization, this guide caters to all. Continuous updates ensure you have access to the most pertinent information.
+- [**Sentinel dVPN:**](/docs/sentinelguides/resources/intro) This guide offers a thorough overview of the Sentinel dVPN Network. Whether you're a newcomer seeking an introduction to Sentinel or a proficient user aiming to enhance your utilization, this guide caters to all. Continuous updates ensure you have access to the most pertinent information.
 
-- [**Sentinel dVPN Node Setup:**](/docs/category/node-setup) Intended for anyone inclined to contribute to the Sentinel network and allocate their bandwidth through a dVPN node. Every node operator has the autonomy to determine the price for customers availing their bandwidth.
+- [**Node Setup:**](/docs/sentinelguides/node/intro) Intended for anyone inclined to contribute to the Sentinel network and allocate their bandwidth through a dVPN node. Every node operator has the autonomy to determine the price for customers availing their bandwidth.
 
-- [**Sentinel dVPN Validator Setup:**](/docs/category/validator-setup) Tailored for those interested in contributing to the Sentinel Network by participating in the validation of transactions and blocks. Successful execution necessitates the presence of a Full Node.
+- [**Validator Setup:**](/docs/sentinelguides/validator/intro) Tailored for those interested in contributing to the Sentinel Network by participating in the validation of transactions and blocks. Successful execution necessitates the presence of a Full Node.
 
 Our dedication to facilitating understanding and participation in the Sentinel Network is exemplified by these guides. They empower you to engage with dVPN technology effectively and contribute meaningfully to the network's growth

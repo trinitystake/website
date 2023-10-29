@@ -75,16 +75,28 @@ const config = {
         },
         items: [
           {
-            href: '/docs/sentinelguides/intro',
-            sidebarid: 'sentinelSidebar',
+            href: '/docs/sentinelguides/resources/intro',
+            sidebarid: 'resourcesSidebar',
             position: 'left',
-            label: 'Guides',
+            label: 'Learn',
           },
-          {to: 'validator', label: 'Validator Stats', position: 'left'},
           {
-            label: 'Connect 👥',
-            type: 'dropdown',
+            href: '/docs/sentinelguides/node/intro',
+            sidebarid: 'nodeSidebar',
             position: 'left',
+            label: 'Run a Node',
+          },
+          {
+            href: '/docs/sentinelguides/validator/intro',
+            sidebarid: 'validatorSidebar',
+            position: 'left',
+            label: 'Validate',
+          },
+          {to: 'validator', label: 'Stats', position: 'left'},
+          {
+            label: 'Find us',
+            type: 'dropdown',
+            position: 'right',
             items: [
               {
                 href: 'https://t.me/trinityvalidatorgroup',
@@ -101,23 +113,9 @@ const config = {
             ],
           },
           {
-            label: 'Sentinel dVPN',
-            type: 'dropdown',
+            label: 'Sentinel Docs',
             position: 'right',
-            items: [
-              {
-                href: 'https://sentinel.co',
-                label: 'Official Website',
-              },
-              {
-                href: 'https://docs.sentinel.co',
-                label: 'Docs',
-              },
-              {
-                href: 'https://map.sentinel.co',
-                label: 'Node Explorer',
-              },
-            ],
+            href: 'https://docs.sentinel.co'
           },
         ],
       },
