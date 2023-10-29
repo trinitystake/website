@@ -135,12 +135,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Guides',
-                to: '/docs/sentinelguides/intro',
+                label: 'Learn',
+                to: '/docs/sentinelguides/resources/intro',
               },
               {
-                label: 'Validator Stats',
-                to: 'validator',
+                label: 'Run a Node',
+                to: '/docs/sentinelguides/node/intro',
+              },
+              {
+                label: 'Validate',
+                to: '/docs/sentinelguides/validator/intro',
               },
               /*
               {
