@@ -15,7 +15,6 @@ sidebar_position: 9
 ## Decentralized
 
 - Osmosis: [https://app.osmosis.zone](https://app.osmosis.zone)
-- Kujira: [Trade](https://fin.kujira.app/trade/kujira1ullqzk95uh0derdqpp8e5f4ukdun00xdal486zmjeeqsfhefgd0qh0qndl?q=all) - [Liquidity Hub](https://bow.kujira.app/pools/kujira1324mahmnjew4rsavkajsq047yc5kgerqy452jt5c2tr5f2dd7fpqflcqw7?tab=stake)
+- Kujira: [Trade](https://fin.kujira.app/trade/kujira1ullqzk95uh0derdqpp8e5f4ukdun00xdal486zmjeeqsfhefgd0qh0qndl?q=all) - [Liquidity Hub](https://bow.kujira.network/pools/kujira1ullqzk95uh0derdqpp8e5f4ukdun00xdal486zmjeeqsfhefgd0qh0qndl)
 - Sifchain: [https://sifchain.network/](https://sifchain.network/)
-- Polarity: [https://polarity.exchange/](https://polarity.exchange/)
 - Sienna Network: [https://sienna.network/](https://sienna.network/)
