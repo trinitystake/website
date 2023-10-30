@@ -9,8 +9,7 @@ sidebar_position: 9
 ## Centralized
 
 - Kucoin: [https://trade.kucoin.com/DVPN-USDT](https://trade.kucoin.com/DVPN-USDT)
-- AscendEx: [https://ascendex.com/en/basic/-cashtrade-spottrading/usdt/dvpn](https://ascendex.com/en/basic/-cashtrade-spottrading/usdt/dvpn)
-- Hotbit: [https://www.hotbit.io/exchange?symbol=DVPN_USDT](https://www.hotbit.io/exchange?symbol=DVPN_USDT)
+- AscendEx: [https://ascendex.com/en/cashtrade-spottrading/usdt/dvpn?inviteCode=ASDH38HE](https://ascendex.com/en/cashtrade-spottrading/usdt/dvpn?inviteCode=ASDH38HE)
 
 ## Decentralized
 
