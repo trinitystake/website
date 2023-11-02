@@ -1,6 +1,6 @@
 ---
 title: Wallets & Staking
-description: How to get a wallet and stake your DVPN tokens
+description: How to get a wallet and stake your DVPN coins
 sidebar_position: 5
 ---
 
