@@ -107,6 +107,10 @@ const config = {
                 label: 'GitHub',
               },
               {
+                href: 'https://x.com/trinityvalidate',
+                label: 'X',
+              },
+              {
                 href: 'https://keybase.io/trinityvalidator',
                 label: 'Keybase',
               },
