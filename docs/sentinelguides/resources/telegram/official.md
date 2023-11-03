@@ -4,7 +4,7 @@ description: A list of official Sentinel dVPN Telegram channels
 sidebar_position: 1
 ---
 
-# ![Telegram icon](/img/resources/telegram.png) Official Sentinel dVPN Telegram Channels
+# Official Sentinel dVPN Telegram Channels
 
 ## Official Sentinel Groups & Channels
 

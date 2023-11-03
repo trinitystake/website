@@ -4,7 +4,7 @@ description: A list of international Sentinel dVPN Telegram channels
 sidebar_position: 2
 ---
 
-# ![Telegram icon](/img/resources/telegram.png) International Channels
+# International Channels
 
 Disclaimer: Listed groups may not be project-affiliated. Some are geared toward regions or languages, rather than specific nationalities
 

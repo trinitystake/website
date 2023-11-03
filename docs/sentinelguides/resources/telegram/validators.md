@@ -4,21 +4,20 @@ description: A list of international Sentinel dVPN Telegram channels
 sidebar_position: 3
 ---
 
-# ![Telegram icon](/img/resources/telegram.png) Validator Channels
+# Validator Channels
 
 This list does not include validators who have already communicated their decommissioning
 
--  01node: https://t.me/node01
-- A4ADAO: https://t.me/A4ADAO - Twitter - Medium
+- 01node: https://t.me/node01
+- A4ADAO: https://t.me/A4ADAO
 - Allnodes: https://t.me/allnodes
 - AutoStake: https://t.me/AutoStake_net
 - Badger Bite: https://t.me/BadgerbiteValidator
-- B-Harvest: https://t.me/b_harvest
 - Bit Cat: https://t.me/bitcat365
 - ChainLayer: https://t.me/chainlayer
 - ChainTools: https://t.me/chaintoolsT
 - ChronoBit: http://t.me/+wtBSntxBFglmMDY0
-- CitadelOne: https://t.me/citadelofficial
+- Citadel.One: https://t.me/citadelofficial
 - CommunityStaking: https://t.me/CommunityStaking
 - Cosmic Validator: https://t.me/cosmicvalidator
 - Cosmostation: https://t.me/cosmostation
@@ -29,13 +28,11 @@ This list does not include validators who have already communicated their decomm
 - Noderunners: https://t.me/noderunners
 - OmniFlix Network: https://t.me/OmniFLixNetwork
 - PrithviDevs: https://t.me/PrithviDevsChat
-- Quokka Stake: https://t.me/quokkastake - Website - GitHub
+- Quokka Stake: https://t.me/quokkastake
 - SolarLabs: https://t.me/solarlabs
 - Stakecito: https://t.me/cryptocitos_frens
-- Stakefish: https://t.me/stakefish
 - StakeLab: https://t.me/stakelab_fr
 - Stakewolle: https://t.me/stakewolle
-- Stakin: https://t.me/stakinofficial
 - Strangelove: https://t.me/strangeloveprice
 - Trinity Validator: https://t.me/trinityvalidatorgroup
 - Trivium Network: https://t.me/TriviumNode
