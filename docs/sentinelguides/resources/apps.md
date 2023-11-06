@@ -15,4 +15,4 @@ sidebar_position: 6
 ## Desktop
 
 - Meile: [Linux, Mac and Windows](https://mathnodes.com/index.php/meile-dvpn-client-linux-os-x/)
-- Solar dVPN: [MacOS](https://apps.apple.com/app/solar-dvpn-fast-anonymous/id1597909295), Linux ([Ubuntu](https://static.solarlabs.ee/dist/solar-dvpn/linux/solar-dvpn-1.0.0.deb), [Fedora](https://static.solarlabs.ee/dist/solar-dvpn/linux/solar-dvpn-1.0.0.rpm))
+- Solar dVPN: [Website](https://dvpn.solar/), [MacOS](https://apps.apple.com/app/solar-dvpn-fast-anonymous/id1597909295)
