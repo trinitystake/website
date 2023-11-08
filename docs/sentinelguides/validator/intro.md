@@ -21,6 +21,6 @@ To set up a Full Node, you should have a medium level of Linux and networking ex
 
 After becoming a Validator, it is also recommended to follow these below sub modules in order to increase its security and offer more decentralization to the network.
 - [TMKMS Security](/docs/category/tmkms-security): protect your private validator key!
-- [Monitoring Tools](/docs/category/monitoring-tools): make sure everything works properly on your Validator machine!
+- [Monitoring Tools](/docs/sentinelguides/validator/monitoring): make sure everything works properly on your Validator machine!
 - [REStake App Setup](/docs/category/restake-app-setup): a guide to join Restake.app and enable your Validator for autocompound
 - [RPC Exposure](/docs/category/rpc-exposure): enable remote execution of functions and access to node services
