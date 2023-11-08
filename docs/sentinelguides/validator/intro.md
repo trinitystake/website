@@ -10,16 +10,16 @@ This guide is intended for anyone who wishes to contribute to the Sentinel Netwo
 
 Validators play a crucial role in maintaining the security and integrity of a network by verifying the authenticity of transactions and enforcing network rules and protocols. To participate in the network, validators are required to stake a certain amount of DVPN coins. Incentivized by the receipt of DVPN coins as rewards, validators are motivated to act honestly and ensure the network's security
 
-To operate as a Sentinel dVPN Validator, you need to have a full node.
+To operate as a Sentinel dVPN Validator, you need to set up a full node and create the validator transaction.
 
-A Sentinel dVPN Full Node (called also Hub) can be installed on:
-- Dedicated server (explained in this guide)
-- At home
-- Akash Network
+A Sentinel dVPN Validator can be deployed on various platforms, including:
+- Dedicated server (as explained in this guide)
+- Your home setup
+- The Akash Network
 
-To set up a Full Node, you should have a medium level of Linux and networking experience. This guide has been created to assist users in understanding all the necessary steps for installing a Hub and becoming a Validator.
+To set up a Validator successfully, you should possess a moderate level of proficiency in Linux and networking. This guide has been designed to assist users in comprehending all the necessary steps required for setting up a full node and becoming a Validator.
 
-After becoming a Validator, it is also recommended to follow these below sub modules in order to increase its security and offer more decentralization to the network.
+Once you've become a Validator, it is strongly recommended to explore the following sub-modules to enhance both security and contribute to greater network decentralization.
 - [TMKMS Security](/docs/category/tmkms-security): protect your private validator key!
 - [Monitoring Tools](/docs/sentinelguides/validator/monitoring): make sure everything works properly on your Validator machine!
 - [REStake App Setup](/docs/category/restake-app-setup): a guide to join Restake.app and enable your Validator for autocompound
