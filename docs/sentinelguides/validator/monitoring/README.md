@@ -15,7 +15,7 @@ To do this we will use popular tools in the field of monitoring and visualizatio
 The first monitoring tools are called **Exporters** and are agents that run on each machine that is to be monitored. They collect various system-level metrics and expose them in a format that can be understood by Prometheus.
 
 - [**Node Exporter**](/docs/sentinelguides/validator/monitoring/exporters/node-exporter): it collects various system-level metrics, such as CPU usage, memory usage, disk usage, network activity, and others.
-- [**Tendermint Internal Metrics**](/docs/sentinelguides/validator/monitoring/exporters/tendermint-internal-metrics): it collects various system-level metrics, such as CPU usage, memory usage, disk usage, network activity, and others.
+- [**Tendermint Internal Metrics**](/docs/sentinelguides/validator/monitoring/exporters/tendermint-internal-metrics): it collects various system-level metrics of your validator, and can be easily enabled from your validator configuration file.
 - [**Cosmos Validator Exporter**](/docs/sentinelguides/validator/monitoring/exporters/cosmos-validator-exporter): a Prometheus scraper designed to retrieve validator statistics from an LCD server exposed by a full node. It was created by Quokkastake, a very active community member.
 - [**Cosmos Node Exporter**](/docs/sentinelguides/validator/monitoring/exporters/cosmos-node-exporter): another Prometheus scraper created by Quokkastake, designed to collect other essential data for monitoring your node.
 
