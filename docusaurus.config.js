@@ -75,24 +75,31 @@ const config = {
         },
         items: [
           {
-            href: '/docs/sentinelguides/resources/intro',
+            href: '/docs/sentinelguides/resources',
             sidebarid: 'resourcesSidebar',
             position: 'left',
-            label: 'Learn',
+            label: 'Learn Sentinel',
           },
           {
-            href: '/docs/sentinelguides/node/intro',
-            sidebarid: 'nodeSidebar',
+            label: 'Guides',
+            type: 'dropdown',
             position: 'left',
-            label: 'Run a Node',
+            items: [
+              {
+                href: '/docs/sentinelguides/node',
+                label: 'Run a Node',
+              },
+              {
+                href: '/docs/sentinelguides/validator',
+                label: 'Run a Validator',
+              },
+              {
+                href: '/docs/sentinelguides/monitoring',
+                label: 'Monitoring',
+              },
+            ],
           },
-          {
-            href: '/docs/sentinelguides/validator/intro',
-            sidebarid: 'validatorSidebar',
-            position: 'left',
-            label: 'Validate',
-          },
-          {to: 'validator', label: 'Stats', position: 'left'},
+          {to: 'validator', label: 'Validator Stats', position: 'left'},
           {
             label: 'Find us',
             type: 'dropdown',
@@ -139,16 +146,20 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Learn',
-                to: '/docs/sentinelguides/resources/intro',
+                label: 'Learn Sentinel',
+                to: '/docs/sentinelguides/resources',
               },
               {
                 label: 'Run a Node',
-                to: '/docs/sentinelguides/node/intro',
+                to: '/docs/sentinelguides/node',
               },
               {
-                label: 'Validate',
-                to: '/docs/sentinelguides/validator/intro',
+                label: 'Run a Validator',
+                to: '/docs/sentinelguides/validator',
+              },
+              {
+                label: 'Monitoring',
+                to: '/docs/sentinelguides/monitoring',
               },
               /*
               {
@@ -164,6 +175,10 @@ const config = {
               {
                 label: 'Telegram',
                 href: 'https://t.me/trinityvalidatorgroup',
+              },
+              {
+                label: 'X',
+                href: 'https://x.com/trinityvalidate',
               },
               {
                 label: 'GiHub',
@@ -185,6 +200,10 @@ const config = {
               {
                 label: 'Documentation',
                 href: 'https://docs.sentinel.co',
+              },
+              {
+                label: 'Stats',
+                href: 'https://stats.sentinel.co',
               },
               {
                 label: 'Node Map',
