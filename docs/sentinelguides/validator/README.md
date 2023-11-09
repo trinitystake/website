@@ -21,6 +21,6 @@ To set up a Validator successfully, you should possess a moderate level of profi
 
 Once you've become a Validator, it is strongly recommended to explore the following sub-modules to enhance both security and contribute to greater network decentralization.
 - [TMKMS Security](/docs/category/tmkms-security): protect your private validator key!
-- [Monitoring Tools](/docs/sentinelguides/validator/monitoring): make sure everything works properly on your Validator machine!
+- [Monitoring Tools](/docs/sentinelguides/monitoring): make sure everything works properly on your Validator machine!
 - [REStake App Setup](/docs/category/restake-app-setup): a guide to join Restake.app and enable your Validator for autocompound
 - [RPC Exposure](/docs/category/rpc-exposure): enable remote execution of functions and access to node services
