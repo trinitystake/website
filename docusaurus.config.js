@@ -219,7 +219,8 @@ const config = {
           'jsx',
           'yaml',
           'python',
-          'markdown'
+          'markdown',
+          'toml'
         ],
       },
     }),
