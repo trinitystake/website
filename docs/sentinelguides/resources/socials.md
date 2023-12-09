@@ -6,7 +6,7 @@ sidebar_position: 10
 
 # Social Accounts
 
-- Twitter: [https://twitter.com/Sentinel_co](https://twitter.com/Sentinel_co)
+- Twitter: [https://twitter.com/Sentinel_co](https://twitter.com/sentinelvpn)
 - Reddit: [https://www.reddit.com/r/dVPN/](https://www.reddit.com/r/dVPN/)
-- Discord: [https://discord.gg/bHJbar4](https://discord.gg/bHJbar4)
-- Medium: [https://medium.com/@sentinel](https://medium.com/@sentinel)
+- Discord: [https://discord.gg/bHJbar4](https://discord.com/invite/mmAA8qF)
+- Medium: [https://medium.com/@sentinel](https://medium.com/sentinel)
