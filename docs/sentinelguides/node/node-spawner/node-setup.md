@@ -22,7 +22,7 @@ Now, let's retrieve the image from Docker Hub. You should see this output once t
 ![](/img/node-spawner/node-setup-2.png)
 
 In the image below, you will find the `config.toml` configuration file, which you can edit to your liking.
-Please refer to manual [node configuration](/node/manual-setup) to edit the fields.
+Please refer to manual [node configuration](/docs/node/manual-setup) to edit the fields.
 
 ![](/img/node-spawner/node-setup-3.png)
 

@@ -5,7 +5,7 @@ sidebar_position: 6
 
 # Node Revenue System
 
-[Operating a dVPN node](/node/manual-setup) incurs expenses for the owner, including the acquisition or rental costs of hardware and electricity bills. In exchange, a novel reward system, known as the Node Revenue System, has been in operation since September 2023. You can have a look at the current Node Revenue chart on [Sentinel Stats](https://stats.sentinel.co)
+[Operating a dVPN node](/docs/node/manual-setup) incurs expenses for the owner, including the acquisition or rental costs of hardware and electricity bills. In exchange, a novel reward system, known as the Node Revenue System, has been in operation since September 2023. You can have a look at the current Node Revenue chart on [Sentinel Stats](https://stats.sentinel.co)
 
 ## What is dVPN Node Revenue System?
 
