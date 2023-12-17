@@ -1,10 +1,12 @@
 ---
-title: Basic Commands
-description: List of useful commands and their explanations
-sidebar_position: 7
+title: Other Commands
+description: A list explaining some useful commands along with their outputs.
+sidebar_position: 8
 ---
 
-# Basic Commands
+# Other Commands
+
+A list explaining some useful commands along with their outputs.
 
 ## Slashing params list
 

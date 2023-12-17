@@ -1,7 +1,7 @@
 ---
 title: Add a Validator Image
 description: How to have your validator image displayed
-sidebar_position: 14
+sidebar_position: 13
 ---
 
 # Add a Validator Image
