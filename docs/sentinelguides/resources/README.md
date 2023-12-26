@@ -6,6 +6,26 @@ sidebar_position: 1
 
 # Sentinel dVPN
 
-Sentinel is a decentralized virtual private network (dVPN) built on top of the Cosmos blockchain. It allows users to connect to the internet privately and securely by routing their traffic through a network of distributed nodes. Sentinel uses advanced encryption techniques to protect user data and preserve anonymity, making it an ideal solution for anyone who values online privacy.
+##  What is Sentinel?
 
-This guide aims to provide a comprehensive overview of Sentinel and its dVPN network. Whether you're a beginner looking to learn more about Sentinel, or an experienced user seeking to optimize your usage, this guide has something for you. The guide is divided into ten sections, each covering a different aspect of Sentinel and its dVPN network. By the end of the guide, you should have a solid understanding of how Sentinel works, how to use it, and how to get the most out of it.
+Sentinel is an open source framework for a network of nodes on which Decentralized VPNs and other Web3 services are built. The purpose of the Sentinel ecosystem is to empower universal access to the internet in a trusted and provable manner. This will be done by allowing organizations and individuals around the world to construct decentralized, scalable, distributed networking solutions on Sentinel’s Cosmos-based blockchain in a cost-effective manner.
+
+:::info Important 
+Sentinel is the foundation for a network of independent dVPN (decentralized virtual private network) applications; not just one single consumer-facing dVPN.
+:::
+
+We strongly encourage all interested parties to build on Sentinel—anyone from established VPN companies to startups to lone individuals in their bedroom. Sentinel's code is fully open-sourced, transparent, and readily available to all for this very reason.
+
+## Why Sentinel?
+
+### Decentralized
+
+A decentralized VPN (dVPN) is not owned or operated by any single centralized actor. With a dVPN, there is no need to place your trust and data in the hands of a big tech company to guarantee reliability, as all authority is distributed across the blockchain to various node owners, stakers, application developers, and validators.
+
+### Open Source
+
+Open-sourcing the code substantially decreases the risk of security breaches. Sentinel's transparency means that innumerable knowledgeable, experienced individuals have reviewed its functionality, identified vulnerabilities, and contributed to its improvement—and will continue to do so! 
+
+### No Log Policy
+
+dVPN is a trustless technology; which means you don't have to just take our word for it when we say that Sentinel is absolutely committed to user privacy, and does not log any user activity or data—it's impossible for us to in the first place.
