@@ -203,6 +203,10 @@ const config = {
                 href: 'https://stats.sentinel.co',
               },
               {
+                label: 'Node Dashboard',
+                href: 'https://nodes.sentinel.co',
+              },
+              {
                 label: 'Node Map',
                 href: 'https://map.sentinel.co',
               },
