@@ -87,6 +87,10 @@ const config = {
                 label: 'Run a Node',
               },
               {
+                href: '/docs/sentinelguides/full-node',
+                label: 'Run a Full Node',
+              },
+              {
                 href: '/docs/sentinelguides/validator',
                 label: 'Run a Validator',
               },
