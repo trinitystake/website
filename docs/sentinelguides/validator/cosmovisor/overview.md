@@ -10,4 +10,4 @@ Cosmovisor is a tool within the Cosmos ecosystem that assists in the smooth and 
 
 The upgrade process in a blockchain network can be complex and requires careful coordination among network participants. Cosmovisor streamlines this process by automating the steps involved in updating the software for nodes, validators, and other participants in the network. It allows for easier management of software upgrades, reducing the chances of mistakes or inconsistencies that could lead to network forks or other issues.
 
-Basically, If it sees a proposal that gets approved, Cosmovisor can automatically download the new binary, stop the current binary, switch from the old binary to the new one, and finally restart the node with the new binary
+Basically, If it sees a proposal that gets approved, Cosmovisor can automatically download the new binary, stop the current binary, switch from the old binary to the new one, and finally restart the node with the new binary.
