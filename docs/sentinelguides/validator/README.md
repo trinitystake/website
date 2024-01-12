@@ -24,7 +24,3 @@ Once you've become a Validator, it is strongly recommended to explore the follow
 - [Monitoring Tools](/docs/sentinelguides/monitoring): make sure everything works properly on your Validator machine!
 - [REStake App Setup](/docs/category/restake-app-setup): a guide to join Restake.app and enable your Validator for autocompound
 - [RPC Exposure](/docs/category/rpc-exposure): enable remote execution of functions and access to node services
-
-### dVPN node
-
-If running a Sentinel Full Node seems to be unfeasible for you, you can also setup a dVPN node instead and provide bandwidth to the ecosystem. It will still support the Sentinel network and can be a source of income as well. Read more about it in the [dVPN node setup](/docs/sentinelguides/node) section.
