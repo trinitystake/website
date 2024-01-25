@@ -72,7 +72,7 @@ const config = {
         },
         items: [
           {
-            href: '/docs/sentinelguides/resources',
+            href: '/docs/resources',
             sidebarid: 'resourcesSidebar',
             position: 'left',
             label: 'Learn Sentinel',
@@ -83,19 +83,19 @@ const config = {
             position: 'left',
             items: [
               {
-                href: '/docs/sentinelguides/node',
+                href: '/docs/node',
                 label: 'Run a Node',
               },
               {
-                href: '/docs/sentinelguides/full-node',
+                href: '/docs/full-node',
                 label: 'Run a Full Node',
               },
               {
-                href: '/docs/sentinelguides/validator',
+                href: '/docs/validator',
                 label: 'Run a Validator',
               },
               {
-                href: '/docs/sentinelguides/monitoring',
+                href: '/docs/monitoring',
                 label: 'Monitoring',
               },
             ],
@@ -148,19 +148,19 @@ const config = {
             items: [
               {
                 label: 'Learn Sentinel',
-                to: '/docs/sentinelguides/resources',
+                to: '/docs/resources',
               },
               {
                 label: 'Run a Node',
-                to: '/docs/sentinelguides/node',
+                to: '/docs/node',
               },
               {
                 label: 'Run a Validator',
-                to: '/docs/sentinelguides/validator',
+                to: '/docs/validator',
               },
               {
                 label: 'Monitoring',
-                to: '/docs/sentinelguides/monitoring',
+                to: '/docs/monitoring',
               },
               /*
               {
