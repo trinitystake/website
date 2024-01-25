@@ -14,9 +14,9 @@ In order to setup a dVPN node some basic Linux experience will come in handy, ho
 There are currenty 4 ways to get started with setting up a dVPN node:
 
 - [Manually](/docs/node/manual-setup)
-- [Linux Script](/docs/sentinelguides/node/methods/linux-script)
-- [Cloudmos on Akash](/docs/sentinelguides/node/methods/akash/start-cloudmos-on-akash)
-- [Node Spawner](/docs/sentinelguides/node/methods/node-spawner/overview)
+- [Linux Script](/docs/node/methods/linux-script)
+- [Cloudmos on Akash](/docs/node/methods/akash/start-cloudmos-on-akash)
+- [Node Spawner](/docs/node/methods/node-spawner/overview)
 
 ### dVPN Node Owners Groups
 

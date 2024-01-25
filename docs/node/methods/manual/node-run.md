@@ -9,7 +9,7 @@ Running a node can be done in two ways: with or without the autorestart function
 :::danger Important
  Before starting the node, remember to send a few DVPN (**50** should suffice) to the operator address otherwise the node will not start!
  
- If you are running your node for testing purposes you can use the [Node Faucet](/docs/sentinelguides/node/faucet)
+ If you are running your node for testing purposes you can use the [Node Faucet](/docs/node/faucet)
 :::
 
 ## Enabling Autorestart Function

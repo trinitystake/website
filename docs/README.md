@@ -8,12 +8,12 @@ Sentinel dVPN guides are a commitment shared by Trinity Validator, aimed at maki
 
 Currently, we have crafted three comprehensive guides:
 
-- [**Learn Sentinel dVPN:**](/docs/sentinelguides/resources) This guide offers a thorough overview of the Sentinel dVPN Network. Whether you're a newcomer seeking an introduction to Sentinel or a proficient user aiming to enhance your utilization, this guide caters to all. Continuous updates ensure you have access to the most pertinent information.
+- [**Learn Sentinel dVPN:**](/docs/resources) This guide offers a thorough overview of the Sentinel dVPN Network. Whether you're a newcomer seeking an introduction to Sentinel or a proficient user aiming to enhance your utilization, this guide caters to all. Continuous updates ensure you have access to the most pertinent information.
 
-- [**Node Setup:**](/docs/sentinelguides/node) Intended for anyone inclined to contribute to the Sentinel network and allocate their bandwidth through a dVPN node. Every node operator has the autonomy to determine the price for customers availing their bandwidth.
+- [**Node Setup:**](/docs/node) Intended for anyone inclined to contribute to the Sentinel network and allocate their bandwidth through a dVPN node. Every node operator has the autonomy to determine the price for customers availing their bandwidth.
 
-- [**Validator Setup:**](/docs/sentinelguides/validator) Tailored for those interested in contributing to the Sentinel Network by participating in the validation of transactions and blocks. Successful execution necessitates the presence of a Full Node.
+- [**Validator Setup:**](/docs/validator) Tailored for those interested in contributing to the Sentinel Network by participating in the validation of transactions and blocks. Successful execution necessitates the presence of a Full Node.
 
-- [**Node Monitoring:**](/docs/sentinelguides/monitoring) This guide is designed to assist you in establishing a robust monitoring system for your node, mitigating the risks of downtime, missed blocks, and potential damage to your reputation. Additionally, implementing effective alerting mechanisms is crucial to promptly notify you of any arising issues.
+- [**Node Monitoring:**](/docs/monitoring) This guide is designed to assist you in establishing a robust monitoring system for your node, mitigating the risks of downtime, missed blocks, and potential damage to your reputation. Additionally, implementing effective alerting mechanisms is crucial to promptly notify you of any arising issues.
 
 Our dedication to facilitating understanding and participation in the Sentinel Network is exemplified by these guides. They empower you to engage with dVPN technology effectively and contribute meaningfully to the network's growth
