@@ -217,7 +217,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Trinity Privacy.`,
+        copyright: `Copyright © ${new Date().getFullYear()} - Trinity Privacy.`,
       },
       prism: {
         theme: prismThemes.github,
