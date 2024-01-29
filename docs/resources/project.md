@@ -15,5 +15,6 @@ sidebar_position: 2
 - Node Explorer: [https://map.sentinel.co/](https://map.sentinel.co/)
 - Commonwealth (governance and proposals discussions): [https://commonwealth.im/sentinel](https://commonwealth.im/sentinel)
 - GitHub: [https://github.com/sentinel-official](https://github.com/sentinel-official)
+- OmniFlix TV: [https://omniflix.tv/channel/65b376e8c65a4348750ace8a](https://omniflix.tv/channel/65b376e8c65a4348750ace8a)
 
 As you may know, in 2021 the project migrated from the Ethereum to the Cosmos Ecosystem. If you still have old ERC-20 SENT Tokens that need to be converted to DVPN, please follow this [link](https://swap.sentinel.co/)
