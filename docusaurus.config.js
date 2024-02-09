@@ -84,19 +84,19 @@ const config = {
             items: [
               {
                 href: '/docs/node',
-                label: 'Run a Node',
+                label: 'dVPN Node Setup',
               },
               {
                 href: '/docs/full-node',
-                label: 'Run a Full Node',
+                label: 'Full Node Setup',
               },
               {
                 href: '/docs/validator',
-                label: 'Run a Validator',
+                label: 'Validator Setup',
               },
               {
                 href: '/docs/monitoring',
-                label: 'Monitoring',
+                label: 'Node Monitoring',
               },
             ],
           },
