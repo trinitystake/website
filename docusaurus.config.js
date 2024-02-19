@@ -122,12 +122,46 @@ const config = {
                 href: 'https://keybase.io/trinityvalidator',
                 label: 'Keybase',
               },
+              {
+                href: 'https://linktr.ee/trinityvalidator',
+                label: 'Linktree',
+              },
             ],
           },
           {
-            label: 'Sentinel Docs',
+            label: 'Sentinel',
+            type: 'dropdown',
             position: 'right',
-            href: 'https://docs.sentinel.co'
+            items: [
+              {
+                href: 'https://sentinel.co',
+                label: 'Website',
+              },
+              {
+                href: 'https://docs.sentinel.co',
+                label: 'Docs',
+              },
+              {
+                href: 'https://stats.sentinel.co',
+                label: 'Stats',
+              },
+              {
+                label: 'Node Map',
+                href: 'https://map.sentinel.co',
+              },
+              {
+                label: 'Node Dashboard',
+                href: 'https://nodes.sentinel.co',
+              },
+              {
+                href: 'https://github.com/sentinel-official',
+                label: 'GitHub',
+              },
+              {
+                href: 'https://sentinelgrowthdao.com',
+                label: 'Growth DAO',
+              },
+            ],
           },
         ],
       },
