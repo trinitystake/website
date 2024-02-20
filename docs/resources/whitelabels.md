@@ -18,7 +18,7 @@ sidebar_position: 8
 - Telegram channels: [https://t.me/MathNodes](https://t.me/MathNodes), [App testing](https://t.me/VPNproducttesting/85)
 - Desktop GUI App: [Linux, Mac and Windows](https://mathnodes.com/index.php/meile-dvpn-client-linux-os-x/)
 
-## Bagimsiz dVPN
+## Independent dVPN
 
 - Official Website [https://bagimsizvpn.com/](https://bagimsizvpn.com/)
 - Telegram channels: [https://t.me/bagimsizdvpn](https://t.me/bagimsizdvpn), [App testing](https://t.me/VPNproducttesting/3)
