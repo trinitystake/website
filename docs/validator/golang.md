@@ -1,6 +1,5 @@
 ---
-title: Install Golang
-description: Needed for interacting with and utilizing Sentinel Hub services
+title: Golang Setup
 sidebar_position: 3
 ---
 
