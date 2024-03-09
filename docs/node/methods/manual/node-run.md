@@ -8,8 +8,9 @@ Running a node can be done in two ways: with or without the autorestart function
 
 :::danger Important
  Before starting the node, remember to send a few DVPN (**50** should suffice) to the operator address otherwise the node will not start!
+ To accomplish this, import the seed you generated or recovered in [**this step**](/docs/node/methods/manual/node-config#add-a-mnemonic) into a wallet such as Leap or Keplr.
  
- If you are running your node for testing purposes you can use the [Node Faucet](/docs/node/faucet)
+ If you are running your node for testing purposes you can use the [**Node Faucet**](https://faucet.im/)
 :::
 
 ## Enabling Autorestart Function
