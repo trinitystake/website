@@ -5,7 +5,11 @@ sidebar_position: 1
 
 # Sentinel dVPN Full Node Setup Guide
 
-This guide is intended for anyone who wishes to contribute to the Sentinel Network by installing a Full Node .
+This guide is intended for anyone who wishes to contribute to the Sentinel Network by installing a Full Node.
+
+:::warning
+Please note that if you intend to share your bandwidth, you must adhere to the [dVPN Node guide](/docs/node), as the Full Node serves distinct purposes.
+:::
 
 A full node is a participant in the network that maintains a complete copy of the blockchain.
 It stores the entire transaction history of the blockchain and validates new transactions based on the consensus rules of the network.
