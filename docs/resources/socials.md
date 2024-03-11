@@ -23,7 +23,7 @@ sidebar_position: 10
 
 - Official Website: [https://sentinelgrowthdao.com/](https://sentinelgrowthdao.com/)
 - DVPN News: [https://www.dvpn.news/](https://www.dvpn.news/)
-- X: [https://x.com/sentinelvpn](https://x.com/sentinelvpn)
+- X: [https://x.com/dvpndao](https://x.com/dvpndao)
 - Telegram: [https://t.me/sentinelgrowthdao](https://t.me/sentinelgrowthdao)
 - Discord: [https://discord.com/channels/436630361313640469/1148964356592259082](https://discord.com/channels/436630361313640469/1148964356592259082)
 - GitHub: [https://github.com/sentinelgrowthdao](https://github.com/sentinelgrowthdao)
