@@ -9,10 +9,10 @@ sidebar_position: 10
 
 ## Sentinel
 
-- Linktree: [https://linktr.ee/sentinelvpn](https://linktr.ee/sentinelvpn)
+- Linktree: [https://linktr.ee/sentineldvpn](https://linktr.ee/sentineldvpn)
 - Twitter: [https://x.com/sentinelvpn](https://x.com/sentinelvpn)
 - Telegram: [List](/docs/category/telegram-channels)
-- YouTube: [https://www.youtube.com/@SentinelVPN](https://www.youtube.com/@SentinelVPN)
+- YouTube: [https://www.youtube.com/@SentineldVPN](https://www.youtube.com/@SentineldVPN)
 - Reddit: [https://www.reddit.com/r/dVPN/](https://www.reddit.com/r/dVPN/)
 - Discord: [https://discord.com/invite/mmAA8qF](https://discord.com/invite/mmAA8qF)
 - Medium: [https://medium.com/sentinel](https://medium.com/sentinel)
