@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`Welcome ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Professional Sentinel dVPN Validation service">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
