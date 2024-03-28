@@ -54,7 +54,7 @@ In the [Node Dashboard](https://nodes.sentinel.co) each node features an indicat
 
 ### 2 - Busurnode Website
 
-Navigate to xplore the [Busurnode Website](https://sentinel.busurnode.com/) to access comprehensive statistics for both individual nodes and the entire network.
+Navigate to xplore the [Busurnode Website](https://sentnodes.com) to access comprehensive statistics for both individual nodes and the entire network.
 
 
 ### 3 - Manual Check via API
