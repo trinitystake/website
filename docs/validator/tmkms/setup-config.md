@@ -22,7 +22,7 @@ tmkms softsign keygen ./config/secrets/secret_connection_key
 Add a symbolic link to the `/usr/local/bin/` directory for system-wide access to TMKMS:
 
 ```bash
-sudo ln -s /home/<your_user>/.cargo/bin/tmkms /usr/local/bin/
+sudo ln -s /home/${USER}/.cargo/bin/tmkms /usr/local/bin/
 ```
 
 ## Transfer Private Validator Key
