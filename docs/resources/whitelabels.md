@@ -20,10 +20,15 @@ sidebar_position: 8
 
 ## Independent dVPN
 
-- Official Website [https://bagimsizvpn.com/](https://bagimsizvpn.com/)
-- Telegram channels: [https://t.me/bagimsizdvpn](https://t.me/bagimsizdvpn), [App testing](https://t.me/VPNproducttesting/3)
+- Official Website [https://independentdvpn.com/](https://independentdvpn.com/)
+- Telegram channels: [https://t.me/independentdvpn](https://t.me/independentdvpn), [App testing](https://t.me/VPNproducttesting/3)
 
-## BasedVPN
+## V2:App
 
-- Official Website [https://basedapps.co.uk/](https://basedapps.co.uk/)
-- Telegram channels: [https://t.me/BasedVPN](https://t.me/BasedVPN), [App testing](https://t.me/VPNproducttesting/2)
+- Official Website [https://v2.app/](https://v2.app/)
+- Telegram channels: [https://t.me/v2app](https://t.me/v2app), [App testing](https://t.me/VPNproducttesting/2)
+
+## Breadcrumbs dVPN
+
+- Official Website [https://www.breadcrumbsdata.com/](https://www.breadcrumbsdata.com/)
+- Telegram channel: [App testing](https://t.me/VPNproducttesting/3435)
