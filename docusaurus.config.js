@@ -20,7 +20,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'trinityprivacy', // Usually your GitHub org/user name.
-  projectName: 'trinity-validator-website', // Usually your repo name.
+  projectName: 'website', // Usually your repo name.
 
   trailingSlash: false,
 
