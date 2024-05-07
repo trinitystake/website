@@ -21,7 +21,7 @@ To set up a Validator successfully, you should possess a moderate level of profi
 
 Once you've become a Validator, it is strongly recommended to explore the following sub-modules to enhance security:
 - [TMKMS Setup](/docs/category/tmkms-setup): protect your private validator key with the Tendermint Key Managemet System
-- [Cosmovisor](/docs/category/cosmovisor): a tool within that assists in the smooth and safe upgrade of the blockchain software
+- [Cosmovisor](/docs/category/cosmovisor): a tool that assists in the smooth and safe upgrade of the blockchain software
 - [REStake App Setup](/docs/category/restake-app-setup): a guide to join Restake.app and enable your Validator for autocompound
 
 We also highly advise setting up a monitoring system to avoid downtime, missed blocks, and damage to your reputation. Please refer to the guide below.
