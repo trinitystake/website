@@ -72,7 +72,7 @@ const config = {
         },
         items: [
           {
-            href: '/docs/resources',
+            to: '/docs/resources',
             sidebarid: 'resourcesSidebar',
             position: 'left',
             label: 'Learn Sentinel',
@@ -83,19 +83,19 @@ const config = {
             position: 'left',
             items: [
               {
-                href: '/docs/node',
+                to: '/docs/node',
                 label: 'dVPN Node Setup',
               },
               {
-                href: '/docs/full-node',
+                to: '/docs/full-node',
                 label: 'Full Node Setup',
               },
               {
-                href: '/docs/validator',
+                to: '/docs/validator',
                 label: 'Validator Setup',
               },
               {
-                href: '/docs/monitoring',
+                to: '/docs/monitoring',
                 label: 'Node Monitoring',
               },
             ],
