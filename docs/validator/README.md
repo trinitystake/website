@@ -19,8 +19,14 @@ A Sentinel dVPN Validator can be deployed on various platforms, including:
 
 To set up a Validator successfully, you should possess a moderate level of proficiency in Linux and networking. This guide has been designed to assist users in comprehending all the necessary steps required for setting up a full node and becoming a Validator.
 
-Once you've become a Validator, it is strongly recommended to explore the following sub-modules to enhance both security and contribute to greater network decentralization.
+Once you've become a Validator, it is strongly recommended to explore the following sub-modules to enhance security:
 - [TMKMS Setup](/docs/category/tmkms-setup): protect your private validator key with the Tendermint Key Managemet System
-- [Monitoring Tools](/docs/monitoring): make sure everything works properly on your Validator machine
+- [Cosmovisor](/docs/category/cosmovisor): a tool within that assists in the smooth and safe upgrade of the blockchain software
 - [REStake App Setup](/docs/category/restake-app-setup): a guide to join Restake.app and enable your Validator for autocompound
-- [RPC Exposure](/docs/category/rpc-exposure): enable remote execution of functions and access to node services
+
+We also highly advise setting up a monitoring system to avoid downtime, missed blocks, and damage to your reputation. Please refer to the guide below.
+- [Monitoring Tools](/docs/monitoring): make sure everything works properly on your Validator machine
+
+### Voting power
+
+In order to become an active Sentinel validator you’ll need to accumulate enough voting power. Voting power is the metric that decides if a technical valid validator is active or not. You will receive voting power by delegating DVPN to your validator or have other people delegate DVPN to your validator. 1 DVPN equals 1 voting power. How much voting power is required to be come active can be seen on the [Blockchain Explorer](https://explorer.sentinel.co/validator). Sort on voting power and check what the lowest amount is. You’ll need to require more voting power than that in order to become an active validator, sign transactions and get rewarded for it.
