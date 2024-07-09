@@ -15,5 +15,6 @@ sidebar_position: 9
 
 - Osmosis: [https://app.osmosis.zone](https://app.osmosis.zone)
 - Kujira: [Trade](https://fin.kujira.app/trade/kujira1ullqzk95uh0derdqpp8e5f4ukdun00xdal486zmjeeqsfhefgd0qh0qndl?q=all) - [Liquidity Hub](https://bow.kujira.network/pools/kujira1ullqzk95uh0derdqpp8e5f4ukdun00xdal486zmjeeqsfhefgd0qh0qndl)
+- SwapFast: [https://swap.sentinel.co](https://swap.sentinel.co)
 - Sifchain: [https://sifchain.network/](https://sifchain.network/)
 - Sienna Network: [https://sienna.network/](https://sienna.network/)
