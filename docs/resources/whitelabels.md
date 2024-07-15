@@ -6,10 +6,7 @@ sidebar_position: 8
 
 # Whitelabels
 
-## Solar dVPN
-
-- Official Website: [https://dvpn.solar/](https://dvpn.solar/)
-- Telegram channels: [Announcements](https://t.me/solarlabs), [Community](https://t.me/solarlabs_chat), [App testing](https://t.me/VPNproducttesting/84)
+Here is a list of white-label companies that develop their dVPN apps using the Sentinel dVPN Blockchain.
 
 ## Meile dVPN
 
