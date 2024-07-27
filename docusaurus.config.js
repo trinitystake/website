@@ -14,7 +14,7 @@ const config = {
   //url: 'https://trinitystake.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  //baseUrl: '/trinity-validator-website/',
+  //baseUrl: '/trinity-stake-website/',
   baseUrl: '/',
 
   // GitHub pages deployment config.
@@ -175,19 +175,19 @@ const config = {
             items: [
               {
                 label: 'Telegram',
-                href: 'https://t.me/trinityvalidatorgroup',
+                href: 'https://t.me/trinitystakegroup',
               },
               {
                 label: 'X',
-                href: 'https://x.com/trinityvalidate',
+                href: 'https://x.com/trinitystake',
               },
               {
                 label: 'GiHub',
-                href: 'https://github.com/trinityprivacy',
+                href: 'https://github.com/trinitystake',
               },
               {
                 label: 'KeyBase',
-                href: 'https://keybase.io/trinityvalidator',
+                href: 'https://keybase.io/trinitystake',
               },
             ],
           },
