@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Trinity Validator',
+  title: 'Trinity Stake',
   tagline: 'Professional Sentinel dVPN Validation service',
   favicon: 'img/favicon.png',
 
@@ -65,9 +65,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/trinity-social-card.png',
       navbar: {
-        title: 'Trinity Validator',
+        title: 'Trinity Stake',
         logo: {
-          alt: 'Trinity Validator Logo',
+          alt: 'Trinity Stake Logo',
           src: 'img/trinity.svg',
         },
         items: [
@@ -213,7 +213,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} - Trinity Privacy`,
+        copyright: `Copyright © ${new Date().getFullYear()} - Trinity Stake`,
       },
       prism: {
         theme: prismThemes.github,
