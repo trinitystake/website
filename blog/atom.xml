@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://trinityvalidator.com/blog</id>
-    <title>Trinity Validator Blog</title>
+    <title>Trinity Stake Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://trinityvalidator.com/blog"/>
-    <subtitle>Trinity Validator Blog</subtitle>
+    <subtitle>Trinity Stake Blog</subtitle>
     <icon>https://trinityvalidator.com/img/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
