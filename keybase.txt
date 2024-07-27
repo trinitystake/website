@@ -1,81 +1,56 @@
 ==================================================================
-https://keybase.io/trinityvalidator
+https://keybase.io/trinitystake
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of https://trinityvalidator.com
-  * I am trinityvalidator (https://keybase.io/trinityvalidator) on keybase.
-  * I have a public key with fingerprint A818 E9D9 A5C2 1BE6 B1A5  FEA8 2BB4 420B B649 0582
+  * I am an admin of https://trinitystake.io
+  * I am trinitystake (https://keybase.io/trinitystake) on keybase.
+  * I have a public key ASAO3ffn6CE7sTnaXrQSMJ0Uvv-wghOyQ7xiuUN1frosBgo
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "0101d49045a154671d5f3ae79ffb7cc9950f930ab507fc19d2e25f2dfad019eba4fa0a",
-      "fingerprint": "a818e9d9a5c21be6b1a5fea82bb4420bb6490582",
+      "eldest_kid": "01200eddf7e7e8213bb139da5eb412309d14beffb08213b243bc62b943757eba2c060a",
       "host": "keybase.io",
-      "key_id": "2bb4420bb6490582",
-      "kid": "0101d49045a154671d5f3ae79ffb7cc9950f930ab507fc19d2e25f2dfad019eba4fa0a",
-      "uid": "f582e94c1c9572c629d2ced89799b019",
-      "username": "trinityvalidator"
+      "kid": "01200eddf7e7e8213bb139da5eb412309d14beffb08213b243bc62b943757eba2c060a",
+      "uid": "1fe9961ece90545bb92375f256f32219",
+      "username": "trinitystake"
     },
     "merkle_root": {
-      "ctime": 1693376414,
-      "hash_meta": "8331feffcba75f76087eabb39a2aedd59d98a3a8c9dafbb882125a5dd358d9b9",
-      "seqno": 24866918
-    },
-    "revoke": {
-      "sig_ids": [
-        "98b45a0262daee4ca38e9246eea14740f896e93fa5ce2d120d1bf459d240bdae0f"
-      ]
+      "ctime": 1722088256,
+      "hash": "e07481525e4cad1214a657d3674e5cda48ab11c3a063f57ee7ec01c06f9ba78a514e6b1ee1acc72ea6e1057ec4df03b50704300bb1884cf795df3fb326e0a75c",
+      "hash_meta": "235f9322d855c37c8b17c550d2db87656dc0043b05225013c48295621f978362",
+      "seqno": 25956343
     },
     "service": {
-      "hostname": "trinityvalidator.com",
+      "entropy": "l1Gwbh40k01OMmn5KrsNKXAj",
+      "hostname": "trinitystake.io",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
-  "ctime": 1693376426,
-  "expire_in": 157680000,
-  "prev": "f2758aab717fe2115ebdd6a239ae39a41a5c821d80bfe07331f2cc91ac5f5c00",
-  "seqno": 35,
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.3.1"
+  },
+  "ctime": 1722088291,
+  "expire_in": 504576000,
+  "prev": "4710ca8fe2caa353db0420084022e809d3c95d7cdb4383495bfd4e24da2fc257",
+  "seqno": 9,
   "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.1.13
-Comment: https://keybase.io/crypto
-
-yMLCAnicrZNtaBxFGMcvtTUkENsPliB9C4ulL4QwM7uzO3NUrH5otZRS0Qpq9ZjZ
-eSa35HJ73d1cEtLz5YtBFEEbpabFVltbK/blg8QqJPTOIqYabSo2Ulpa9PoGKiSg
-qEF0NiiC6DcXlmWW5/9//vN7Zk633JJpblhX3bD7p8/PBw2f1gZ7MuqHy+8MWDJU
-/VZ2wOqCuQ8UFMRJritQVtZCGGHlcORQganjelhRbQvwuNbS833OKdLcRkJS5Gkf
-c0WAUE2UFgphDlI4WiBhtVs6KHZCVIqCYmJsBcMMuOKC+gRLcCUWVINgRErHIUhK
-1/SkjBhhPoxThQknRQwdQWj+mUVuLt6/1P/PuXvm7LTxBu742OfUI75LjMAHxbjH
-uTSCtDCGqCi6wVQnZpdB0l8WhUCJJIysSrvVDVFXAXJRGCYpZD8J0lLsctv2XAc7
-ZqMizue6IRHGgdk21qC1L4VHteci5oGQ0uaCCFCKGnRM2IL5XAktJWMEEyqoUjZl
-iss0Tww7iqGVJQ5zXY6ZiRBBOeyCtHscdBp+sZV9zOJMGkaIuEQJAMcXthkMcVwA
-gR3PQZpxF7itzaSAKEyQwlI7JgBxkDQSpK3HK2m3qBz4c+bpwP4DRIcfdptopShM
-Qj8smIp8kpTibAoo6S+lkl6QuT/NcjIoKnNsjKIMURyERQPMVP6DHXHbLegrBRHk
-grSCei5D5kn7QDkdHvEoE0J62NNAMKYglXIFMTTBvI45e74BqBiSGpCXoifmiGDh
-U019hP6GaVOTU3QaT0OwKJKeCKxK7dT2+ZmG5sytC+al9ynT3LTor1t2oa3xt6Vv
-bB34cuQk3Ha/3PnJjVN1nV/7cPx260T75trxl6tjctmOsSttS/ZUdlU+u+fJu5/f
-tXv4+vu/o3Mrvm3ZO7Ts5wcmXzkyqb5avn3q65V0asHM4k1P9A1/MThSOLei8dLp
-Z6OmK2uO1h+69siPW/cv6ftlcOrs4dFg/8GL287nahte5WfWvnC1fl1bsw8u77Au
-V8ul2r76x/fO9KnXb8x+19hx8Oa2o4cmDk32NpSOy9kT6+aVHu2dGGk9W/3w5OqX
-jixse2397d/sXDz+lnfXngP76luOfXTg12fGNy+8OP1i/rkPxraMDpXfXfl9y3Cr
-uLD+zlVPl596b2P1zKaNd/SPD42+eV/T7JqZ6en51/4ASpSZ8w==
-=fp+w
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDt335+ghO7E52l60EjCdFL7/sIITskO8YrlDdX66LAYKp3BheWxvYWTESpcCCcQgRxDKj+LKo1PbBCAIQCLoCdPJXXzbQ4NJW/1OJNovwlfEIDpd/gL+4U9YBwjsUdjekwBqsNkxdjSx9q2TejeXwp7cAgHCo3NpZ8RAyL4hBTEQL3sDZpWRz4/LgLZNTOOPqc9NHE/p4K6lE3jOhLTnFRL33T4I3gFPJiEuQjXTCnyFQ740tr0tYwI3BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMnqxJbSWZgNY1mGdf2gaWza9GlpIFWx6Cr495jSQGXFo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/trinityvalidator
+View my publicly-auditable identity here: https://keybase.io/trinitystake
 
 ==================================================================
