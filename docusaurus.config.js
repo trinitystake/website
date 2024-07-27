@@ -155,11 +155,11 @@ const config = {
                 to: 'https://docs.sentinel.co/full-node-setup',
               },
               {
-                label: 'Run a Validator',
+                label: 'Run a Validator Node',
                 to: 'https://docs.sentinel.co/validator-setup',
               },
               {
-                label: 'Monitoring',
+                label: 'Node Monitoring',
                 to: 'https://docs.sentinel.co/node-monitoring',
               },
               /*
