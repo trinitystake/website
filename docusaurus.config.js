@@ -72,8 +72,8 @@ const config = {
         },
         items: [
           {
-            to: '/docs/resources',
-            sidebarid: 'resourcesSidebar',
+            to: 'https://docs.sentinel.co/getting-started/introduction',
+            // sidebarid: 'resourcesSidebar',
             position: 'left',
             label: 'Learn Sentinel',
           },
@@ -83,50 +83,28 @@ const config = {
             position: 'left',
             items: [
               {
-                to: '/docs/node',
+                to: 'https://docs.sentinel.co/node-setup',
                 label: 'dVPN Node Setup',
               },
               {
-                to: '/docs/full-node',
+                to: 'https://docs.sentinel.co/full-node-setup',
                 label: 'Full Node Setup',
               },
               {
-                to: '/docs/validator',
+                to: 'https://docs.sentinel.co/validator-setup',
                 label: 'Validator Setup',
               },
               {
-                to: '/docs/monitoring',
+                to: 'https://docs.sentinel.co/node-monitoring',
                 label: 'Node Monitoring',
               },
             ],
           },
-          {to: 'validator', label: 'Validator Stats', position: 'left'},
+          {to: 'https://explorer.sentinel.co/sentinel/validator/sentvaloper1mcwvu4vpvfcnxduzpelehmgga282wtc0xux7se', label: 'Validator Status', position: 'left'},
           {
             label: 'Find us',
-            type: 'dropdown',
+            to: 'https://linktr.ee/trinityvalidator',
             position: 'right',
-            items: [
-              {
-                href: 'https://t.me/trinityvalidatorgroup',
-                label: 'Telegram',
-              },
-              {
-                href: 'https://github.com/trinityprivacy',
-                label: 'GitHub',
-              },
-              {
-                href: 'https://x.com/trinityvalidate',
-                label: 'X',
-              },
-              {
-                href: 'https://keybase.io/trinityvalidator',
-                label: 'Keybase',
-              },
-              {
-                href: 'https://linktr.ee/trinityvalidator',
-                label: 'Linktree',
-              },
-            ],
           },
           {
             label: 'Sentinel',
@@ -149,18 +127,6 @@ const config = {
                 label: 'Node Map',
                 href: 'https://map.sentinel.co',
               },
-              {
-                label: 'Node Dashboard',
-                href: 'https://nodes.sentinel.co',
-              },
-              {
-                href: 'https://github.com/sentinel-official',
-                label: 'GitHub',
-              },
-              {
-                href: 'https://sentinelgrowthdao.com',
-                label: 'Growth DAO',
-              },
             ],
           },
         ],
@@ -178,23 +144,23 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Guides',
             items: [
               {
-                label: 'Learn Sentinel',
-                to: '/docs/resources',
+                label: 'Run a dVPN Node',
+                to: 'https://docs.sentinel.co/node-setup',
               },
               {
-                label: 'Run a Node',
-                to: '/docs/node',
+                label: 'Run a Full Node',
+                to: 'https://docs.sentinel.co/full-node-setup',
               },
               {
                 label: 'Run a Validator',
-                to: '/docs/validator',
+                to: 'https://docs.sentinel.co/validator-setup',
               },
               {
                 label: 'Monitoring',
-                to: '/docs/monitoring',
+                to: 'https://docs.sentinel.co/node-monitoring',
               },
               /*
               {
@@ -239,10 +205,6 @@ const config = {
               {
                 label: 'Stats',
                 href: 'https://stats.sentinel.co',
-              },
-              {
-                label: 'Node Dashboard',
-                href: 'https://nodes.sentinel.co',
               },
               {
                 label: 'Node Map',

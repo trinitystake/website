@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://www.mintscan.io/sentinel/validators/sentvaloper1mcwvu4vpvfcnxduzpelehmgga282wtc0xux7se">
+            to="https://explorer.sentinel.co/sentinel/validator/sentvaloper1mcwvu4vpvfcnxduzpelehmgga282wtc0xux7se">
             Stake with us
           </Link>
         </div>
