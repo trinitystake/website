@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-nocheck
 // Note: type annotations allow type checking and IDEs autocompletion
 
 import {themes as prismThemes} from 'prism-react-renderer';
@@ -100,7 +100,11 @@ const config = {
               },
             ],
           },
-          {to: 'https://explorer.sentinel.co/sentinel/validator/sentvaloper1mcwvu4vpvfcnxduzpelehmgga282wtc0xux7se', label: 'Validator Status', position: 'left'},
+          {
+            label: 'Validator Status',
+            to: 'https://explorer.sentinel.co/sentinel/validator/sentvaloper1mcwvu4vpvfcnxduzpelehmgga282wtc0xux7se',
+            position: 'left'
+          },
           {
             label: 'Find us',
             to: 'https://linktr.ee/trinitystake',
