@@ -103,7 +103,7 @@ const config = {
           {to: 'https://explorer.sentinel.co/sentinel/validator/sentvaloper1mcwvu4vpvfcnxduzpelehmgga282wtc0xux7se', label: 'Validator Status', position: 'left'},
           {
             label: 'Find us',
-            to: 'https://linktr.ee/trinityvalidator',
+            to: 'https://linktr.ee/trinitystake',
             position: 'right',
           },
           {
