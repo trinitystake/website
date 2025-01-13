@@ -84,15 +84,11 @@ const config = {
             items: [
               {
                 to: 'https://docs.sentinel.co/node-setup',
-                label: 'dVPN Node Setup',
+                label: 'Run a dVPN Node',
               },
               {
                 to: 'https://docs.sentinel.co/full-node-setup',
-                label: 'Full Node Setup',
-              },
-              {
-                to: 'https://docs.sentinel.co/validator-setup',
-                label: 'Validator Setup',
+                label: 'Run a Full Node & Validate',
               },
               {
                 to: 'https://docs.sentinel.co/node-monitoring',
@@ -155,12 +151,8 @@ const config = {
                 to: 'https://docs.sentinel.co/node-setup',
               },
               {
-                label: 'Run a Full Node',
+                label: 'Run a Full Node & Validate',
                 to: 'https://docs.sentinel.co/full-node-setup',
-              },
-              {
-                label: 'Run a Validator Node',
-                to: 'https://docs.sentinel.co/validator-setup',
               },
               {
                 label: 'Node Monitoring',
