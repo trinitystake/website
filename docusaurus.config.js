@@ -98,7 +98,7 @@ const config = {
           },
           {
             label: 'Validator Status',
-            to: 'https://explorer.sentinel.co/sentinel/validator/sentvaloper1mcwvu4vpvfcnxduzpelehmgga282wtc0xux7se',
+            to: 'https://explorer.busurnode.com/sentinel/staking/sentvaloper1mcwvu4vpvfcnxduzpelehmgga282wtc0xux7se',
             position: 'left'
           },
           {
