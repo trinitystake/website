@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrinity_stake=self.webpackChunktrinity_stake||[]).push([[849],{6164:e=>{e.exports=JSON.parse('{"version":{"pluginId":"default","version":"current","label":"Next","banner":null,"badge":false,"noIndex":false,"className":"docs-version-current","isLast":true,"docsSidebars":{},"docs":{"README":{"id":"README","title":"README","description":""}}}}')}}]);
