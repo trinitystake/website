@@ -1,5 +1,5 @@
 {
-  "name": "trinity-validator",
+  "name": "trinity-stake",
   "version": "0.0.0",
   "private": true,
   "scripts": {
