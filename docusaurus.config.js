@@ -129,6 +129,11 @@ const config = {
               },
             ],
           },
+          {
+            href: 'https://github.com/trinitystake',
+            className: 'pseudo-icon github-icon',
+            position: 'right',
+          },
         ],
       },
 
