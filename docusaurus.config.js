@@ -72,7 +72,7 @@ const config = {
         },
         items: [
           {
-            to: 'https://docs.sentinel.co/getting-started/introduction',
+            to: 'https://docs.sentinel.co/get-started/introduction',
             // sidebarid: 'resourcesSidebar',
             position: 'left',
             label: 'Learn Sentinel',
@@ -83,7 +83,7 @@ const config = {
             position: 'left',
             items: [
               {
-                to: 'https://docs.sentinel.co/node-setup',
+                to: 'https://docs.sentinel.co/dvpn-node-setup',
                 label: 'Run a dVPN Node',
               },
               {
@@ -153,7 +153,7 @@ const config = {
             items: [
               {
                 label: 'Run a dVPN Node',
-                to: 'https://docs.sentinel.co/node-setup',
+                to: 'https://docs.sentinel.co/dvpn-node-setup',
               },
               {
                 label: 'Run a Full Node & Validate',
@@ -174,10 +174,6 @@ const config = {
           {
             title: 'Get in Touch',
             items: [
-              {
-                label: 'Telegram',
-                href: 'https://t.me/trinitystakegroup',
-              },
               {
                 label: 'X',
                 href: 'https://x.com/trinitystake',
