@@ -72,7 +72,7 @@ const config = {
         },
         items: [
           {
-            to: 'https://docs.sentinel.co/get-started/introduction',
+            to: 'https://docs.sentinel.co/get-started',
             // sidebarid: 'resourcesSidebar',
             position: 'left',
             label: 'Learn Sentinel',
