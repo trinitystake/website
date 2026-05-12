@@ -44,18 +44,9 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          //editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          //editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        docs: false,
+        blog: false,
+        pages: {},
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -102,7 +93,7 @@ const config = {
           },
           {
             label: 'Validator Status',
-            to: 'https://explorer.busurnode.com/sentinel/staking/sentvaloper1mcwvu4vpvfcnxduzpelehmgga282wtc0xux7se',
+            to: 'https://p2pscan.com/validator/sentvaloper1mcwvu4vpvfcnxduzpelehmgga282wtc0xux7se',
             position: 'left'
           },
           {
@@ -151,6 +142,11 @@ const config = {
 
       footer: {
         style: 'dark',
+        logo: {
+          alt: 'Trinity Stake',
+          src: 'img/trinity-wordmark.svg',
+          width: 200,
+        },
         links: [
           {
             title: 'Guides',
@@ -183,7 +179,7 @@ const config = {
                 href: 'https://x.com/trinitystake',
               },
               {
-                label: 'GiHub',
+                label: 'GitHub',
                 href: 'https://github.com/trinitystake',
               },
               {
