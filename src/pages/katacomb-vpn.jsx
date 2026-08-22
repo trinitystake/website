@@ -4,6 +4,7 @@ import Link from '@docusaurus/Link';
 import CodeBlock from '@theme/CodeBlock';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import {usePluginData} from '@docusaurus/useGlobalData';
+import {PageMetadata} from '@docusaurus/theme-common';
 
 import {
   HomepageCard as Card,
@@ -86,6 +87,9 @@ export default function KatacombVPN() {
       title="Katacomb VPN"
       description="A Linux desktop client for the Sentinel decentralized VPN network. Pick a node anywhere, pay for the session on-chain, and the tunnel comes up."
       wrapperClassName="katacomb-page">
+      {/* Layout only forwards title/description, so the page's own social
+          card has to go through PageMetadata to override the site default. */}
+      <PageMetadata image="img/katacomb-social-card.png" />
       <div className="pad">
         <div className="center homepage-content">
           <section className="hero-section" aria-labelledby="katacomb-heading">
