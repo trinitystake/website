@@ -69,7 +69,7 @@ version, links and artifact sizes across the site.
 A successful build says which release it used:
 
 ```
-[katacomb-release] using v1.0.2 from GitHub
+[katacomb-release] using v3 from GitHub
 ```
 
 If the API cannot be reached, because the build is offline or rate limited, the plugin
