@@ -4,21 +4,21 @@ const RELEASES = `https://github.com/${REPO}/releases`;
 // Used when the GitHub API can't be reached, so an offline or rate-limited
 // build still produces a working page instead of failing.
 const FALLBACK = {
-  version: '1.5.1',
+  version: '1.5.2',
   stale: true,
-  releaseUrl: `${RELEASES}/tag/v1.5.1`,
+  releaseUrl: `${RELEASES}/tag/v1.5.2`,
   deb: {
-    name: 'katacomb-vpn_1.5.1_amd64.deb',
-    url: `${RELEASES}/download/v1.5.1/katacomb-vpn_1.5.1_amd64.deb`,
+    name: 'katacomb-vpn_1.5.2_amd64.deb',
+    url: `${RELEASES}/download/v1.5.2/katacomb-vpn_1.5.2_amd64.deb`,
     size: '113 MB',
   },
   appimage: {
-    name: 'katacomb-vpn-1.5.1.AppImage',
-    url: `${RELEASES}/download/v1.5.1/katacomb-vpn-1.5.1.AppImage`,
+    name: 'katacomb-vpn-1.5.2.AppImage',
+    url: `${RELEASES}/download/v1.5.2/katacomb-vpn-1.5.2.AppImage`,
     size: '144 MB',
   },
-  checksums: `${RELEASES}/download/v1.5.1/SHA256SUMS`,
-  signature: `${RELEASES}/download/v1.5.1/SHA256SUMS.asc`,
+  checksums: `${RELEASES}/download/v1.5.2/SHA256SUMS`,
+  signature: `${RELEASES}/download/v1.5.2/SHA256SUMS.asc`,
 };
 
 const megabytes = (bytes) =>
